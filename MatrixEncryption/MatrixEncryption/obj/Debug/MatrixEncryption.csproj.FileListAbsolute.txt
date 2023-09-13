@@ -1,0 +1,11 @@
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\bin\Debug\MatrixEncryption.exe.config
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\bin\Debug\MatrixEncryption.exe
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\bin\Debug\MatrixEncryption.pdb
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\obj\Debug\MatrixEncryption.Form1.resources
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\obj\Debug\MatrixEncryption.Properties.Resources.resources
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\obj\Debug\MatrixEncryption.csproj.GenerateResource.cache
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\obj\Debug\MatrixEncryption.csproj.CoreCompileInputs.cache
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\obj\Debug\MatrixEncryption.exe
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\obj\Debug\MatrixEncryption.pdb
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\obj\Debug\MatrixEncryption.csproj.AssemblyReference.cache
+C:\Users\brandonb123\source\repos\MatrixEncryption\MatrixEncryption\obj\Debug\MatrixEncryption.csproj.SuggestedBindingRedirects.cache
